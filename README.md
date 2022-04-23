@@ -1,1 +1,1 @@
-# -goit-react-hw-06-phonebook-twoSlices
+# goit-react-hw-06-phonebook-twoSlices
